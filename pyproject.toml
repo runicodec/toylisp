@@ -1,0 +1,9 @@
+[project]
+name = "toylisp"
+version = "0.0.67"
+description = "Minimal LISP implementation in Python"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pytest>=9.0.2",
+]
